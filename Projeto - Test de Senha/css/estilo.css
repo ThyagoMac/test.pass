@@ -1,0 +1,16 @@
+.pessima{
+    color: red;
+    font-weight: bold;
+}
+.ruim {
+    color: orangered;
+    font-weight: bold;
+}
+.boa{
+    color: green;
+    font-weight: bold;
+}
+.otima {
+    color: rgb(151, 219, 41);
+    font-weight: bold;
+}
